@@ -13,4 +13,7 @@
     <string name="quick_settings_tiles_extra" translatable="false">
         smartpixels, sound, music
     </string>
+
+    <!-- Should we use the mask while displaying qs tiles-->
+    <bool name="config_useMaskForQs">true</bool>
 </resources>
